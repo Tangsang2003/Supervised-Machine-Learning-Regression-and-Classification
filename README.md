@@ -3,7 +3,7 @@
 This repository contains the lab files from the course one of specialization [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction).\
 This course was the foundation for basic Machine Learning Concepts and also basic ML models like Linear Regression and Logistic Regression.
 ### Week 1
-- In week 1, basic cost function, their implementations, gradient descent its implementation, and basic Linear Regression were introduced.\
+- In week 1, basic cost function, their implementations, gradient descent its implementation, and basic Linear Regression were introduced.
 - The lab files can be found [here](/Course_1/Week_1/Lab%20Files)
 ### Week 2
 - In week 2, topics like vectorization, feature scaling, feature engineering, scikit learn, etc were introduced.
