@@ -15,4 +15,4 @@ This course was the foundation for basic Machine Learning Concepts and also basi
 - I don't remember much of regularization. LOL.
 - The lab files can be found [here](/Week_3).
 
-#Byee
+# Byee
